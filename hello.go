@@ -5,7 +5,7 @@ import (
 )
 
 func main() {
-	name := "jack"
+	name := "jack2"
 	fmt.Printf("hello,%s\n", name)
 
 }
